@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julesblrt28@gmail.com
+	name = Jules Boulaert
